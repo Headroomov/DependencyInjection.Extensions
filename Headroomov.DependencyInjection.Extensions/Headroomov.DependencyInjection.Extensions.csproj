@@ -11,6 +11,7 @@
 		<Description>A strict dependency injection extension package that ensures consistent service registration by enforcing matching lifetimes between interfaces and implementations through the use of ServiceLifetimeAttribute, preventing mismatches and promoting reliable, predictable DI configuration.</Description>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<RepositoryUrl>https://github.com/Headroomov/DependencyInjection.Extensions</RepositoryUrl>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
 	</PropertyGroup>
 	
   <ItemGroup>
